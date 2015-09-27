@@ -3,7 +3,7 @@
 	<name>Croncheck</name>
 	<id>croncheck</id>
 	<author>iionly (for Elgg 1.8 and newer) / ColdTrick IT Solutions</author>
-	<version>1.10.0</version>
+	<version>1.10.1</version>
 	<category>enhancement</category>
 	<description>Shows Cron Info in site administration.</description>
 	<website>https://github.com/iionly</website>
