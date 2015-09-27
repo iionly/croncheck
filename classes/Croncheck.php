@@ -7,7 +7,7 @@
 class Croncheck extends \Elgg\HooksRegistrationService {
 
 	public function getCroneventHandlers($interval) {
-		$cronhooks = _elgg_services()->hooks->getOrderedHandlers('cron', $interval);
+		$cronhooks = elgg_get_ordered_hook_handlers('cron', $interval);
 
 		$callbacks = array();
 		foreach($cronhooks as $cron) {
