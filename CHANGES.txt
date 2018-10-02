@@ -1,6 +1,12 @@
 Changelog
 =========
 
+2.3.1
+-----
+
+- Requires Elgg 2.3 at minimum,
+- Code cleanup and rework of cron stats page.
+
 2.0.0
 -----
 

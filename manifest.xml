@@ -3,14 +3,14 @@
 	<name>Croncheck</name>
 	<id>croncheck</id>
 	<author>iionly (for Elgg 1.8 and newer) / ColdTrick IT Solutions</author>
-	<version>2.0.0</version>
+	<version>2.3.1</version>
 	<category>enhancement</category>
 	<description>Shows Cron Info in site administration.</description>
 	<website>https://github.com/iionly</website>
-	<copyright>(C) iionly 2014-2015, (C) ColdTrick 2010-2015</copyright>
+	<copyright>(C) iionly 2014, (C) ColdTrick 2010</copyright>
 	<license>GNU Public License version 2</license>
 	<requires>
 		<type>elgg_release</type>
-		<version>2.0.0-beta.1</version>
+		<version>2.3.0</version>
 	</requires>
 </plugin_manifest>
