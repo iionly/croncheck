@@ -1,7 +1,7 @@
-Croncheck plugin for Elgg 2.3 and newer Elgg 2.X
+Croncheck plugin for Elgg 3.0 and newer Elgg 3.X
 ================================================
 
-Latest Version: 2.3.1  
+Latest Version: 3.0.0  
 Released: 2018-08-10  
 Contact: iionly@gmx.de  
 License: GNU General Public License version 2  
@@ -11,7 +11,7 @@ Copyright: (c) iionly (for Elgg 1.8 and newer), ColdTrick IT Solutions
 Description
 -----------
 
-This plugin adds a stats page in the admin backend of your Elgg site under "Administer" - "Statistics" - "Croncheck" that shows the time of the latest execution of the Elgg cronjobs and shows which cron events are registered by Elgg core and 3rd party plugins for the cron intervals. This plugin doesn't handle the configuration of or manages the execution of cronjobs - you still have to do this on your own following the instructions given in the Elgg install docs. The Croncheck plugin just gives you a quick summary of the cronjobs which might be useful to verify that the jobs have been correctly set up and to get a summary of the cron events registered by various plugins.
+This plugin adds a stats page in the admin backend of your Elgg site under "Information" - "Croncheck" that shows the time of the latest execution of the Elgg cronjobs and shows which cron events are registered by Elgg core and 3rd party plugins for the cron intervals. This plugin doesn't handle the configuration of or manages the execution of cronjobs - you still have to do this on your own following the instructions given in the Elgg install docs. The Croncheck plugin just gives you a quick summary of the cronjobs which might be useful to verify that the jobs have been correctly set up and to get a summary of the cron events registered by various plugins.
 
 
 Installation and configuration
