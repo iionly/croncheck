@@ -1,7 +1,7 @@
 <?php
 
 if (!elgg_in_context('widgets')) {
-	$intervals = elgg_get_config('elgg_cron_periods');
+	$intervals = _elgg_services()->cron->getConfiguredIntervals(true);
 
 	// List registered cronjobs per interval
 
